@@ -10,7 +10,7 @@
 We are going to use Scratch to make a two player game to guess the Area of Rectilinear shapes. Scratch will pick some random numbers, will draw a shape of random height and lenghts. All the players have to do is guess the area given the length of the sides.
 
 
-![screenshot](images/finished_quiz_code.gif)
+![screenshot](images/quiz_code_stage.png)
 
 # Step 1: Random number generator
 
@@ -21,7 +21,7 @@ We are going to use Scratch to make a two player game to guess the Area of Recti
 + Create a variable called *roll* under Variables (Orange blocks) ☐
 + Create this script under Sprite1 (there is no need for any code to be on the Stage in this ipt): ☐
 
-![screenshot](images/1.gif)
+![screenshot](images/finished_quiz_code.gif)
 
 ## Test your project
 
