@@ -32,3 +32,19 @@ Click the green flag.
 
 ## Save your project
 
+
+
+
+
+
+# Challenge: Creating the grid background (optional)
+
+The grid background was created using Scratch. Here is the code used to create the horizontal lines. Can you extend it to add in the the vertical grid lines? 
+
+## Activity Checklist
+
+## Test your project
+
+Click the green flag.
+
+## Save your Project
