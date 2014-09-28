@@ -46,8 +46,26 @@ Instead of the hardcoded length of 200, it would be great to be able make random
 
 ## Activity Checklist
 + Add variables for all sprites: *length1*, *length2*, *height1* and *height2*. These determine the length of the sides in the rectilinear shapes. ☐
++ Add a variable multiplication_factor. ☐
 
 ![screenshot](images/length1.gif)
+
+## Test your project
+
+Click the green flag.
+
++ What does the tractor do? ☐
++ What does the multiplication_factor variable do?
++ What happens when you change the number of steps.  ☐
++ You should add a *clear* block under the when green flag clicked. This will ensure that the stages ends up clean before every run.  ☐
+
+# Step 3: 
+
+Lets make the tractor make a few turns.
+
+## Activity Checklist
+![screenshot](images/right_angled_tractor_turn.gif)
+
 
 # Challenge: Creating the grid background (optional)
 
