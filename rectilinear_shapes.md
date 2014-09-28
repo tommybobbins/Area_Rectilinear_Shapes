@@ -89,7 +89,12 @@ Sometimes when the random numbers get very large we lose the tractor off the edg
 We need to get the tractor back to the starting point. To do this we need to travel horizontally length1+length2 and vertically height1+height2.
 
 ## Activity Checklist
+
+The tractor needs to move 
 ![screenshot](images/move_horizontally_back.gif)
+
+Finally we need the tractor to complete the vertical movement.
+
 ![screenshot](images/completed_grid.gif)
 
 
