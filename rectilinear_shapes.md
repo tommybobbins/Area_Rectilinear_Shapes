@@ -124,6 +124,14 @@ Click the green flag.
 
 ## Save your Project
 
+# Step 8: Perimeter calculation (just for fun).
+
+# Step 9: 2 Player Quiz
+
+##Activity Checklist
+
+![screenshot](images/add_perimeter.gif)
+
 # Challenge: Creating the grid background (optional)
 
 The grid background was created using Scratch. Here is the code used to create the horizontal lines. Can you extend it to add in the the vertical grid lines? 
