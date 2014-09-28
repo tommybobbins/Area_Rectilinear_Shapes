@@ -68,7 +68,7 @@ Lets make the tractor make a few turns.
 
 ## Save your project
 
-# Step 4:
+# Step 4: Make the tractor complete the shape.
 
 Make the tractor complete the right side of the shape
 
@@ -83,11 +83,26 @@ Sometimes when the random numbers get very large we lose the tractor off the edg
 ![screenshot](images/shrink_random_values.gif)
 
 ![screenshot](images/length_addition_then_multiplication.gif)
+
+# Step 5: 
+
 ![screenshot](images/move_horizontally_back.gif)
 ![screenshot](images/completed_grid.gif)
 ![screenshot](images/move_tractor_out_way.gif)
+
+# Step 6: Area calculation. 
+
+In this exercise, the area of our shape is *length1* multiplied by *height1*, plus *length2* + *length1* multiplied by height2
+
+## Activity checklist
+
 ![screenshot](images/area_calculations.gif)
 
+## Test your project
+
+Click the green flag.
+
+## Save your Project
 
 # Step 5: Get the tractor back to the beginning.
 
