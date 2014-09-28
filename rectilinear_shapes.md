@@ -66,8 +66,6 @@ Lets make the tractor make a few turns.
 ## Activity Checklist
 ![screenshot](images/right_angled_tractor_turn.gif)
 
-## Test your project
-
 ## Save your project
 
 # Step 4:
@@ -84,6 +82,27 @@ Sometimes when the random numbers get very large we lose the tractor off the edg
 
 ![screenshot](images/shrink_random_values.gif)
 
+![screenshot](images/length_addition_then_multiplication.gif)
+![screenshot](images/move_horizontally_back.gif)
+![screenshot](images/completed_grid.gif)
+![screenshot](images/move_tractor_out_way.gif)
+![screenshot](images/area_calculations.gif)
+
+
+# Step 5: Get the tractor back to the beginning.
+
+We need to get the tractor back to the starting point. To do this we need to travel horizontally length1+length2 and vertically height1+height2.
+
+## Activity Checklist
+
+Using the Green operators and the Orange variables.
+
+## Test your project
+
+Click the green flag.
+
+## Save your Project
+
 # Challenge: Creating the grid background (optional)
 
 The grid background was created using Scratch. Here is the code used to create the horizontal lines. Can you extend it to add in the the vertical grid lines? 
@@ -95,3 +114,4 @@ The grid background was created using Scratch. Here is the code used to create t
 Click the green flag.
 
 ## Save your Project
+
