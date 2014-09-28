@@ -78,6 +78,11 @@ Make the tractor complete the right side of the shape
 
 ![screenshot](images/tractor_2nd_turn.gif)
 
+Sometimes when the random numbers get very large we lose the tractor off the edge of the screen. We could change the multiplication_factor making it smaller, but then we'd need to design a new grid. It's easier to make the random numbers slightly smaller for length and height.
+
++ Make your code look similar to the following:
+
+![screenshot](images/shrink_random_values.gif)
 
 # Challenge: Creating the grid background (optional)
 
