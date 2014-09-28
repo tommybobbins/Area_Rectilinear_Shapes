@@ -84,19 +84,19 @@ Sometimes when the random numbers get very large we lose the tractor off the edg
 
 ![screenshot](images/length_addition_then_multiplication.gif)
 
-# Step 5: 
+# Step 5:  Return the tractor horizontally and vertically
 
+We need to get the tractor back to the starting point. To do this we need to travel horizontally length1+length2 and vertically height1+height2.
+
+## Activity Checklist
 ![screenshot](images/move_horizontally_back.gif)
 ![screenshot](images/completed_grid.gif)
+
+
+# Step 6: The tractor obscures the view
+
+## Activity Checklist
 ![screenshot](images/move_tractor_out_way.gif)
-
-# Step 6: Area calculation. 
-
-In this exercise, the area of our shape is *length1* multiplied by *height1*, plus *length2* + *length1* multiplied by height2
-
-## Activity checklist
-
-![screenshot](images/area_calculations.gif)
 
 ## Test your project
 
@@ -104,13 +104,14 @@ Click the green flag.
 
 ## Save your Project
 
-# Step 5: Get the tractor back to the beginning.
 
-We need to get the tractor back to the starting point. To do this we need to travel horizontally length1+length2 and vertically height1+height2.
+# Step 7: Area calculation. 
 
-## Activity Checklist
+In this exercise, the area of our shape is *length1* multiplied by *height1*, plus *length2* + *length1* multiplied by height2
 
-Using the Green operators and the Orange variables.
+## Activity checklist
+
+![screenshot](images/area_calculations.gif)
 
 ## Test your project
 
