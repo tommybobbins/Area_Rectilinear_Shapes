@@ -11,7 +11,9 @@ We are going to use Scratch to make a two player game to guess the Area of Recti
 
 ![screenshot](images/quiz_code_stage.png)
 
-# Step 1: Random number generator
+# Step 1: Pen commands
+
+For this project, we will be drawing random shapes using the pen commands. Let's do a quick recap.
 
 ## Activity Checklist
 
@@ -22,7 +24,7 @@ We are going to use Scratch to make a two player game to guess the Area of Recti
 + Create a variable called *roll* under Variables (Orange blocks) ☐
 + Import a new sprite using tractor.sprite.  ☐
 + Create this script under this sprite (there is no need for any code to be on the Stage in this program): ☐
-+ You will need to have added variables for all sprites, length1, length2, height1 and height2. These determine the length of the sides in the rectilinear shapes.
++ You will need to add the outputs area and perimeter. These will be used for the outputs of the program. ☐
 
 ![screenshot](images/tractor_paint1.gif)
 
@@ -31,15 +33,21 @@ We are going to use Scratch to make a two player game to guess the Area of Recti
 Click the green flag.
 
 + What does the tractor do? ☐
-+ Can you change the colour of the pen ?
-+ What does the multiplier variable do?
++ Can you change the colour of the pen ? ☐
++ What happens when you change the number of steps.  ☐
++ You should add a *clear* block under the when green flag clicked. This will ensure that the stages ends up clean before every run.  ☐
 
 ## Save your project
 
 
+# Step 2: 
 
+Instead of the hardcoded length of 200, it would be great to be able make random shapes and sizes. 
 
+## Activity Checklist
++ Add variables for all sprites: *length1*, *length2*, *height1* and *height2*. These determine the length of the sides in the rectilinear shapes. ☐
 
+![screenshot](images/length1.gif)
 
 # Challenge: Creating the grid background (optional)
 
