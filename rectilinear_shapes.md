@@ -114,7 +114,7 @@ Sometimes when the random numbers get very large we lose the tractor off the edg
 
 Click the green flag
 
-+ Does the tractor move back to a position vertically inline with where it started?
++ Does the tractor move back to a position above where it started?
 
 ## Save your project
 
@@ -140,7 +140,12 @@ Click the green flag
 
 # Step 6: The tractor obscures the view
 
+We need to put the tractor somewhere out of this way, so it's easier to see the lengths of the sides to calculate the area.
+
 ## Activity Checklist
+
+First of all before we move the tractor we will need to use the *pen up*  command to stop the tractor scribbling on the screen. We then need to use the Motion *go to* block to move the tractor.
+
 ![screenshot](images/move_tractor_out_way.gif)
 
 ## Test your project
@@ -149,13 +154,13 @@ Click the green flag.
 
 ## Save your Project
 
-
 # Step 7: Area calculation. 
 
 In this exercise, the area of our shape is *length1* multiplied by *height1*, plus *length2* + *length1* multiplied by height2
 
 ## Activity checklist
 
++ Make your code look like the following - note we have just insert the orange *change area by []* blocks.
 ![screenshot](images/area_calculations.gif)
 
 ## Test your project
