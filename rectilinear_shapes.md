@@ -198,9 +198,14 @@ The grid background was created using Scratch. Here is the code used to create t
 
 ## Activity Checklist
 
+Here is the code for making the first part of the grid. Can you add some new code to finish the job?
+![screenshot](images/x_grid.gif)
+
 ## Test your project
 
 Click the green flag.
+
+You can save the stage grid by right mouse clicking and clicking *save picture of stage*.
 
 ## Save your Project
 
