@@ -160,7 +160,7 @@ In this exercise, the area of our shape is *length1* multiplied by *height1*, pl
 
 ## Activity checklist
 
-+ Make your code look like the following - note we have just insert the orange *change area by []* blocks.
++ Make your code look like the following - note we have just inserted the orange *change area by []* blocks.
 ![screenshot](images/area_calculations.gif)
 
 ## Test your project
@@ -181,7 +181,7 @@ Click the green flag.
 
 + Does the perimeter you have calculated equal twice the length/height variables?
 
-# Step 9: 2 Player Quiz
+# Step 8: 2 Player Quiz
 
 Finally, we need to make this into a game, where both players are asked how big the area is.
 
@@ -191,6 +191,20 @@ Finally, we need to make this into a game, where both players are asked how big 
 + Make your code look like the following, by adding a broadcast finised and When I receive finished code block.
 Add the following
 ![screenshot](images/add_perimeter.gif)
++ You could also make the quiz more difficult by hiding some of the lengths as the tractor moves around.
+
+# Step 9: Perimeter calculation (just for fun).
+
+## Activity checklist
+
++ Add in a variable called perimeter and then use it to calculate the perimeter. The perimeter should be the same as 2*(length1+length2+height1+height2).
+
+## Test your project
+
+Click the green flag.
+
++ Does the perimeter you have calculated equal twice the length/height variables?
+
 
 # Challenge: Creating the grid background (optional)
 
